@@ -7,7 +7,7 @@ package ipv6
 import (
 	"net"
 
-	"github.com/golang/net/bpf"
+	"github.com/sssvip/net/bpf"
 )
 
 // MulticastHopLimit returns the hop limit field value for outgoing

@@ -15,7 +15,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/golang/net/context"
+	"github.com/sssvip/net/context"
 )
 
 // slashClean is equivalent to but slightly more efficient than

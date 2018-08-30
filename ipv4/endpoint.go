@@ -8,7 +8,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/golang/net/internal/socket"
+	"github.com/sssvip/net/internal/socket"
 )
 
 // BUG(mikio): On Windows, the JoinSourceSpecificGroup,

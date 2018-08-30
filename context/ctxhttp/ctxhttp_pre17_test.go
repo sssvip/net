@@ -14,7 +14,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/golang/net/context"
+	"github.com/sssvip/net/context"
 )
 
 // golang.org/issue/14065

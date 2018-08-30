@@ -10,7 +10,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/golang/net/html"
+	"github.com/sssvip/net/html"
 )
 
 func ExampleParse() {

@@ -4,7 +4,7 @@
 
 package ipv6
 
-import "github.com/golang/net/internal/socket"
+import "github.com/sssvip/net/internal/socket"
 
 // Sticky socket options
 const (

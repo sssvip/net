@@ -7,7 +7,7 @@ package ipv4
 import (
 	"net"
 
-	"github.com/golang/net/bpf"
+	"github.com/sssvip/net/bpf"
 )
 
 // MulticastTTL returns the time-to-live field value for outgoing

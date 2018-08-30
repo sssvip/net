@@ -14,7 +14,7 @@ import (
 	"math"
 	"sync"
 
-	"github.com/golang/net/internal/timeseries"
+	"github.com/sssvip/net/internal/timeseries"
 )
 
 const (

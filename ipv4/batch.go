@@ -10,7 +10,7 @@ import (
 	"net"
 	"runtime"
 
-	"github.com/golang/net/internal/socket"
+	"github.com/sssvip/net/internal/socket"
 )
 
 // BUG(mikio): On Windows, the ReadBatch and WriteBatch methods of

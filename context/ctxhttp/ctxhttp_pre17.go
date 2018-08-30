@@ -4,7 +4,7 @@
 
 // +build !go1.7
 
-package ctxhttp // import "github.com/golang/net/context/ctxhttp"
+package ctxhttp // import "github.com/sssvip/net/context/ctxhttp"
 
 import (
 	"io"
@@ -12,7 +12,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/golang/net/context"
+	"github.com/sssvip/net/context"
 )
 
 func nop() {}

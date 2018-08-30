@@ -12,8 +12,8 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/golang/net/internal/nettest"
-	"github.com/golang/net/internal/socket"
+	"github.com/sssvip/net/internal/nettest"
+	"github.com/sssvip/net/internal/socket"
 )
 
 func TestSocket(t *testing.T) {

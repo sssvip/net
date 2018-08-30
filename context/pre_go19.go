@@ -76,7 +76,7 @@ type Context interface {
 	// 	// Package user defines a User type that's stored in Contexts.
 	// 	package user
 	//
-	// 	import "github.com/golang/net/context"
+	// 	import "github.com/sssvip/net/context"
 	//
 	// 	// User is the type of value stored in the Contexts.
 	// 	type User struct {...}

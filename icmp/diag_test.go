@@ -14,11 +14,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/golang/net/icmp"
-	"github.com/golang/net/internal/iana"
-	"github.com/golang/net/internal/nettest"
-	"github.com/golang/net/ipv4"
-	"github.com/golang/net/ipv6"
+	"github.com/sssvip/net/icmp"
+	"github.com/sssvip/net/internal/iana"
+	"github.com/sssvip/net/internal/nettest"
+	"github.com/sssvip/net/ipv4"
+	"github.com/sssvip/net/ipv6"
 )
 
 type diagTest struct {

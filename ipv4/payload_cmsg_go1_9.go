@@ -10,7 +10,7 @@ package ipv4
 import (
 	"net"
 
-	"github.com/golang/net/internal/socket"
+	"github.com/sssvip/net/internal/socket"
 )
 
 func (c *payloadHandler) readFrom(b []byte) (int, *ControlMessage, net.Addr, error) {

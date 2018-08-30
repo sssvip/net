@@ -5,7 +5,7 @@
 package html
 
 import (
-	"github.com/golang/net/html/atom"
+	"github.com/sssvip/net/html/atom"
 )
 
 // A NodeType is the type of a Node.

@@ -9,7 +9,7 @@ package idna_test
 import (
 	"fmt"
 
-	"github.com/golang/net/idna"
+	"github.com/sssvip/net/idna"
 )
 
 func ExampleProfile() {

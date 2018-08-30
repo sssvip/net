@@ -11,8 +11,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/golang/net/icmp"
-	"github.com/golang/net/ipv6"
+	"github.com/sssvip/net/icmp"
+	"github.com/sssvip/net/ipv6"
 )
 
 func ExampleConn_markingTCP() {
