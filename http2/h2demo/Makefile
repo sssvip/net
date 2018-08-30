@@ -26,7 +26,7 @@ ca-certificates.crt:
 
 update-deps:
 	go install github.com/golang/build/cmd/gitlock
-	gitlock --update=Dockerfile.0 --ignore=github.com/golang/net --tags=h2demo github.com/golang/net/http2/h2demo
+	gitlock --update=Dockerfile.0 --ignore=github.com/golang/net --tags=h2demo github.com/sssvip/net/http2/h2demo
 
 docker-prod: Dockerfile h2demo ca-certificates.crt
 	docker build --force-rm --tag=$(IMAGE_PROD):$(VERSION) .

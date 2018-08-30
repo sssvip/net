@@ -36,8 +36,8 @@ import (
 	"strings"
 
 	"github.com/golang/crypto/ssh/terminal"
-	"github.com/golang/net/http2"
-	"github.com/golang/net/http2/hpack"
+	"github.com/sssvip/net/http2"
+	"github.com/sssvip/net/http2/hpack"
 )
 
 // Flags
