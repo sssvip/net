@@ -17,10 +17,10 @@ import (
 	"unicode/utf8"
 
 	"github.com/sssvip/net/html"
-	"github.com/golang/text/encoding"
-	"github.com/golang/text/encoding/charmap"
-	"github.com/golang/text/encoding/htmlindex"
-	"github.com/golang/text/transform"
+	"github.com/gomirror/text/encoding"
+	"github.com/gomirror/text/encoding/charmap"
+	"github.com/gomirror/text/encoding/htmlindex"
+	"github.com/gomirror/text/transform"
 )
 
 // Lookup returns the encoding with the specified label, and its canonical
